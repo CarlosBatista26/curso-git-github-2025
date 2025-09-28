@@ -1,16 +1,17 @@
-git init.					   	-> cria um repo git na pasta atual
-git status					   	-> mostra o status do trabalho (de cada arquivo)
-git add <nome_arquivo>		   	-> adiciona arquivo para ser comitado
-git add .					   	-> adiciona todos os arquivos para ser comitado
-git commit -m "msg"			   	-> faz commit do que estava no add com comentários
-git log						   	-> mostra todo o histórico de commit
-. 							   	-> é o diretório atual
-git diff <nome_do_arquivo>	   	-> mostra a diferença entre o arquivo salvo e o arq modificado
-git diff .					   	-> Mostra as diferenças de todos os arquivos no diretório
-git reset <nome_do_arquivo>	   	-> Remove o arquivo do add
-q							   	-> quit
-git checkout -b <nome_branch>	-> cria uma branch (ramificação)
-git branch						-> Para que possamos descobrir em qual branch estamos
+git init.					   		-> cria um repo git na pasta atual
+git status					   		-> mostra o status do trabalho (de cada arquivo)
+git add <nome_arquivo>		   		-> adiciona arquivo para ser comitado
+git add .					   		-> adiciona todos os arquivos para ser comitado
+git commit -m "msg"			   		-> faz commit do que estava no add com comentários
+git log						   		-> mostra todo o histórico de commit
+. 							   		-> é o diretório atual
+git diff <nome_do_arquivo>	   		-> mostra a diferença entre o arquivo salvo e o arq modificado
+git diff .					   		-> Mostra as diferenças de todos os arquivos no diretório
+git reset <nome_do_arquivo>	   		-> Remove o arquivo do add
+q							   		-> quit
+git checkout -b <nome_branch>		-> cria uma branch (ramificação)
+git branch							-> Para que possamos descobrir em qual branch estamos
+git branch -d <nome_branch_local>	-> Excluir um branchno local
 
 
 
