@@ -11,7 +11,7 @@ git reset <nome_do_arquivo>	   		-> Remove o arquivo do add
 q							   		-> quit
 git checkout -b <nome_branch>		-> cria uma branch (ramificação)
 git branch							-> Para que possamos descobrir em qual branch estamos
-git branch -d <nome_branch_local>	-> Excluir um branchno local
+git branch -d <nome_branch_local>	-> Excluir um branch
 
 
 
