@@ -10,10 +10,12 @@ git diff .					   	-> Mostra as diferenças de todos os arquivos no diretório
 git reset <nome_do_arquivo>	   	-> Remove o arquivo do add
 q							   	-> quit
 git checkout -b <nome_branch>	-> cria uma branch (ramificação)
-                             
-                               
+git branch						-> Para que possamos descobrir em qual branch estamos
+
+
+
 ## Fluxo de Trabalho           
-                               
+
 1. Criar o diretório (pasta)    do projeto
 2. Iniciar o git dentro do d   iretório criado (git init .)
 3. edita ou cria arquivos      
@@ -22,4 +24,3 @@ git checkout -b <nome_branch>	-> cria uma branch (ramificação)
 6. git status                  
 7. git commit -m "mensagem"    
 8. volta para o passo "3"      
-                               
