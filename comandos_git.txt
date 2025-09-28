@@ -12,6 +12,7 @@ q							   		-> quit
 git checkout -b <nome_branch>		-> cria uma branch (ramificação)
 git branch							-> Para que possamos descobrir em qual branch estamos
 git branch -d <nome_branch_local>	-> Excluir um branch
+git merge <nome_branch>				-> Mescla as branch
 
 
 
